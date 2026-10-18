@@ -1,9 +1,10 @@
 # Appunti informatica ASCO
 ## appunti
 - non usare piu le TV
+- meglio usare gli switch piccoli, sono piu veloci
 ## lettura chip
 - formato esteso 
-- valutazione rapida su 'automatico', non 'nessuno'
+- valutazione rapida su `automatico`, non 'nessuno'
 ## Router
 ### Come ricaricare il credito
 - aprire chockpit.swisscom.ch
@@ -14,3 +15,4 @@
     - (**se non appare magari l'inbox è piena**)
 - caricare il credito di tasca propia $$$
 
+![immagine](Esempio_di_rete_TMO_ASCO.jpeg)
